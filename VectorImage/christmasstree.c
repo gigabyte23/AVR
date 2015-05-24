@@ -6,7 +6,6 @@
 //MAX FREQ for 13V version @ 5.0V 4MHz
 #define F_CPU 4000000	
 
-
 #include <avr/io.h>
 #include <util/delay.h>
 
